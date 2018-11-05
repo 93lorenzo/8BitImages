@@ -5,3 +5,5 @@ It works executing the GUI python file that automatically makes work the GUI and
 
 
 ![My image](https://avatars2.githubusercontent.com/u/13660998?s=400&u=749db9166e62c801dbadf4b13da84e0265537509&v=4)
+
+![My image](https://raw.githubusercontent.com/93lorenzo/8BitImages/master/result.png)
